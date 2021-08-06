@@ -1,8 +1,8 @@
 # disinformation-insight-twitter
 
-Tweet IDs from the paper "Deriving Disinformation Insights from Geolocalized Twitter Callouts" at "KDD2021 Workshop On Deriving Insights From User-Generated Text".
+Tweet IDs from the paper "Deriving Disinformation Insights from Geolocalized Twitter Callouts" presented at [KDD2021 - Workshop On Deriving Insights From User-Generated Text](https://megagon.ai/wit/). 
 
-Each file is a bz2 compresssed single column csv with the header "tweet_id".
+Each file is a bz2 compressed single column csv with the header "tweet_id".
 
 |Year |Language| Class| Count| Path|
 | :------------- | :----------: | -----------: | -----------: |-----------: |
